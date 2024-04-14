@@ -1,12 +1,12 @@
 package br.com.renato.screenmatch.modelos.modelos;
 
 import br.com.renato.screenmatch.modelos.calulos.Classificavel;
-import br.com.alura.screenmatch.modelos.Serie;
+
 
 public class Episodio implements Classificavel {
     private int numero;
     private String nome;
-    private br.com.alura.screenmatch.modelos.Serie serie;
+    private br.com.renato.screenmatch.modelos.modelos.Serie serie;
     private int totalVisualizacoes;
 
     public int getTotalVisualizacoes() {
