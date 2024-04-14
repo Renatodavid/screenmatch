@@ -24,7 +24,7 @@ public class Principal {
         //meuFilme.totalDeAvaliacoes = 1;
         //System.out.println(meuFilme.pegaMedia());
 
-        br.com.alura.screenmatch.modelos.Serie lost = new br.com.alura.screenmatch.modelos.Serie();
+        br.com.renato.screenmatch.modelos.modelos.Serie lost = new br.com.renato.screenmatch.modelos.modelos.Serie();
         lost.setNome("Lost");
         lost.setAnoDeLancamento(2000);
         lost.exibeFichaTecnica();

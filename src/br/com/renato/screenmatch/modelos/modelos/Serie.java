@@ -1,6 +1,6 @@
-package br.com.alura.screenmatch.modelos;
+package br.com.renato.screenmatch.modelos.modelos;
 
-import br.com.renato.screenmatch.modelos.modelos.Titulo;
+
 
 public class Serie extends Titulo {
     private int temporadas;
